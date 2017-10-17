@@ -1,0 +1,1 @@
+Selamat Datang, <strong><?php echo strtoupper($nama); ?></strong>. Anda login sebagai <strong><?php echo strtoupper($status); ?></strong> dengan username <strong><?php echo strtoupper($username); ?></strong>
